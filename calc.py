@@ -1,4 +1,3 @@
-from time import sleep
 while True:
     pontos = int(input('Quantos pontos você tem?: '))
     resultado = 5000-pontos
